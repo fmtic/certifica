@@ -21,7 +21,7 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("⛵ Sistema de Emissão de Certificados")
+st.title("📜 Sistema de Emissão de Certificados")
 st.markdown("---")
 
 
