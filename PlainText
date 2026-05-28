@@ -1,9 +1,11 @@
 📁 certifica/
+│── 📄 .gitignore
 │── 📄 app.py
-|── 📄 constants.py
-|── 📄 pdf_engine.py
-|── 📄 requirements.txt
-├── 📁 modelos_certificados/
-│   └── 🖼️ Certificados - Ventos.png
+│── 📄 constants.py
+│── 📄 pdf_engine.py
+│── 📄 README.md
+│── 📄 requirements.txt
+├── 📁 modelos_certificado/
+│   └── 🖼️ Ventos.png
 └── 📁 assinaturas/
-    └── 🖼️ Nome_Instrutor.png
+    └── 🖼️ nome_do_educador.png
